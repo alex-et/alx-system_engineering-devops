@@ -1,4 +1,5 @@
 #!/bin/bash
-groups
+id -Gn
+
 
 
