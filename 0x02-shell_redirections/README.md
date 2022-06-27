@@ -1,0 +1,1 @@
+This is the project of ALX SE June chort Shell, I/O Redirections and filters.
